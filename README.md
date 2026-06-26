@@ -13,13 +13,14 @@ I'm passionate about transforming data into meaningful insights and building pra
 * Python
 * SQL
 
-**Data Science**
+**Libraries**
 
 * Pandas
 * NumPy
+* Selenium
+* Beautiful Soup
 * Matplotlib
 * Plotly
-* Scikit-learn
 
 **Tools**
 
