@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Akshdeep Singh Sandhu 👋
 
-<!--
-**aksh-sandhu/aksh-sandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Tech (Artificial Intelligence & Machine Learning) Student
 
-Here are some ideas to get you started:
+💡 Aspiring Data Scientist & AI/ML Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about transforming data into meaningful insights and building practical AI and machine learning solutions. I'm currently strengthening my skills in Python, SQL, Data Analysis, Machine Learning, and Data Visualization through hands-on projects.
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+* Python
+* SQL
+
+**Data Science**
+
+* Pandas
+* NumPy
+* Matplotlib
+* Plotly
+* Scikit-learn
+
+**Tools**
+
+* Git
+* GitHub
+* MySQL
+* Streamlit
+
+## 🌱 Currently Learning
+
+* Data Analytics
+* Statistics
+* Machine Learning
